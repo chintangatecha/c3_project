@@ -1,17 +1,7 @@
-Title
+ReadMe
 ========================================================
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring web pages (click the **Help** toolbar button for more details on using R Markdown).
+All the data is in UCI HAR Dataset. Simply run the run_analysis.R file and it will spit out tidy_data.txt at the end of the function.
 
-When you click the **Knit HTML** button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r}
-summary(cars)
-```
-
-You can also embed plots, for example:
-
-```{r fig.width=7, fig.height=6}
-plot(cars)
-```
+Codebook contains other information on how data is setup and how the datatables were created.
 
